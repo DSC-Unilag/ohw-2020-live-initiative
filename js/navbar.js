@@ -3,7 +3,7 @@ var html = '<nav class="navbar navbar-expand-lg navbar-light bg-light zone">\
   <nav class="navbar navbar-light bg-light">\
     <a class="navbar-brand" href="#">\
 <!-- Change the brand image on the nav bar to a big & transparent one -->\
-      <img src="assests/TLI Logo-02.png" width="50" height="30" alt="">\
+      <img src="assests/logo.jpg" width="50" height="30" alt="">\
     </a>\
   </nav>\
 <a class="navbar-brand" href="#">\LIVE INITIATIVE</a>\
